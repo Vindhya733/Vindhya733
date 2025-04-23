@@ -28,8 +28,24 @@ A web-based parking reservation platform with real-time tracking and integrated 
 - QR code-based entry/exit  
 - Real-time parking availability  
 - Clean, responsive UI
-
 ---
+#### 🔹 [Cloud-Based Task Manager App](https://github.com/Vindhya733/cloud-task-manager)  
+A collaborative task manager that lets users create, assign, and track tasks with real-time updates and cloud sync.  
+**Tech Stack**: React, Node.js, MongoDB, AWS  
+⭐ Features:
+- Real-time task creation, editing, and deletion  
+- Task assignment, filtering, and status tracking  
+- Secure RESTful APIs  
+- Hosted on AWS EC2 for high availability
+---
+#### 🔹 [Social Media Management System](https://github.com/Vindhya733/social-media-management)  
+A scalable Flask-based social media platform with user roles, real-time chat, and admin moderation features.  
+**Tech Stack**: Python (Flask), JavaScript, HTML, CSS, SQL Server  
+⭐ Features:
+- User registration and role-based login (admin/user)  
+- Real-time chat and post creation/deletion  
+- Admin dashboard for content moderation  
+- Responsive and user-friendly design
 
 #### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/vindhyakantamneni/)
