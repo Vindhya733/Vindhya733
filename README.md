@@ -46,7 +46,7 @@ A scalable Flask-based social media platform with user roles, real-time chat, an
 - Real-time chat and post creation/deletion  
 - Admin dashboard for content moderation  
 - Responsive and user-friendly design
-
+---
 #### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/vindhyakantamneni/)
 - ✉️ kantamnenivindhya@gmail.com
