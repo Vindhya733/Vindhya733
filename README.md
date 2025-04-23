@@ -20,6 +20,16 @@
 ![Vindhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vindhya733&show_icons=true&theme=default)
 
 ---
+### 📌 Featured Projects
+#### 🔹 [Parking Management System](https://github.com/Vindhya733/parking-management-system)  
+A web-based parking reservation platform with real-time tracking and integrated payment options.  
+**Tech Stack**: JavaScript, HTML, CSS, MySQL  
+⭐ Features:
+- QR code-based entry/exit  
+- Real-time parking availability  
+- Clean, responsive UI
+
+---
 
 #### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/vindhyakantamneni/)
