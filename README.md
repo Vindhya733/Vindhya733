@@ -24,14 +24,6 @@
 
 ---
 ### 📌 Featured Projects
-#### 🔹 [Parking Management System](https://github.com/Vindhya733/parking-management-system)  
-A web-based parking reservation platform with real-time tracking and integrated payment options.  
-**Tech Stack**: JavaScript, HTML, CSS, MySQL  
-⭐ Features:
-- QR code-based entry/exit  
-- Real-time parking availability  
-- Clean, responsive UI
----
 #### 🔹 [Cloud-Based Task Manager App](https://github.com/Vindhya733/cloud-task-manager)  
 A collaborative task manager that lets users create, assign, and track tasks with real-time updates and cloud sync.  
 **Tech Stack**: React, Node.js, MongoDB, AWS  
@@ -52,7 +44,8 @@ A scalable Flask-based social media platform with user roles, real-time chat, an
 ---
 #### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/vindhyakantamneni/)
-- ✉️ kantamnenivindhya@gmail.com
-- 🌐 [Portfolio (Coming Soon)]()
+- ✉️ Vindhya.k733@gmail.com
+- 🌐 [Portfolio Website](https://github.com/Vindhya733/Portfolio) — Work in Progress
+
 
 
