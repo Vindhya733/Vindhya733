@@ -1,3 +1,4 @@
+👋 Hi, I’m Vindhya Kantamneni — a Full Stack Developer skilled in Java, Angular, React, Python, SQL, and AWS. I enjoy building scalable web apps and cloud-native solutions.
 
 <img src="https://github.com/user-attachments/assets/b55b40f9-edf5-4ac3-ba3e-64495e0f75cf" alt="GitHub Banner" style="width:100%;" />
 
