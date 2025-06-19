@@ -33,15 +33,7 @@ A collaborative task manager that lets users create, assign, and track tasks wit
 - Secure RESTful APIs  
 - Hosted on AWS EC2 for high availability
 ---
-#### 🔹 [Social Media Management System](https://github.com/Vindhya733/social-media-management)  
-A scalable Flask-based social media platform with user roles, real-time chat, and admin moderation features.  
-**Tech Stack**: Python (Flask), JavaScript, HTML, CSS, SQL Server  
-⭐ Features:
-- User registration and role-based login (admin/user)  
-- Real-time chat and post creation/deletion  
-- Admin dashboard for content moderation  
-- Responsive and user-friendly design
----
+
 #### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/vindhyakantamneni/)
 - ✉️ Vindhya.k733@gmail.com
