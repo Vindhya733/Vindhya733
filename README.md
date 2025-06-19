@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vindhya Kantamneni
+
 <img src="https://github.com/user-attachments/assets/b55b40f9-edf5-4ac3-ba3e-64495e0f75cf" alt="GitHub Banner" style="width:100%;" />
 
 
